@@ -1,4 +1,4 @@
-package edu.rpi.csci2600.f25.gildem4
+package edu.rpi.csci2600.f25.gildem4;
 
 enum TicTacToeStates {INIT, PLAYER1, PLAYER2, FINISHED};
 
